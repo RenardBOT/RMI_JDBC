@@ -1,0 +1,5 @@
+ip=172.31.18.63
+port=1099
+interactive=false
+sleepTime=500
+bagSize=3
