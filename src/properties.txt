@@ -1,4 +1,0 @@
-ip=172.31.18.63
-port=1099
-interactive=true
-bagSize=3
